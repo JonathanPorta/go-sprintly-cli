@@ -16,7 +16,7 @@ var command string
 
 func init() {
 	username = "jonathan@getpantheon.com"
-	token = "PqMpbRNzmLAwynH7aJ5KmXt9sfHGNM5B"
+	token = "TOKENHERE"
 
 	resource = flag.Arg(0)
 	command = flag.Arg(1)
